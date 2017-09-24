@@ -1,0 +1,26 @@
+<annotation>
+	<folder>C300Coupe</folder>
+	<filename>C300Coupe_42.jpg</filename>
+	<path>C:\Users\mrathna\Magesh\MachineLearning\VehicleImages\common\C300Coupe\C300Coupe_42.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>C300Coupe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>74</ymin>
+			<xmax>610</xmax>
+			<ymax>349</ymax>
+		</bndbox>
+	</object>
+</annotation>
