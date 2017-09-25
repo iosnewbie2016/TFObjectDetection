@@ -1,0 +1,26 @@
+<annotation>
+	<folder>C63AMG</folder>
+	<filename>C63AMG_49.jpg</filename>
+	<path>C:\Users\mrathna\Magesh\MachineLearning\VehicleImages\common\C63AMG\C63AMG_49.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>607</width>
+		<height>333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>C63AMG</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>8</ymin>
+			<xmax>606</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>
